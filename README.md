@@ -20,3 +20,5 @@
  
 链接：https://pan.baidu.com/s/1HzSVI61f5XZFP1RZbuR7jw 
 提取码：mjxd
+
+1026修复称重商品异常金额
